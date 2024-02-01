@@ -16,5 +16,5 @@
 
 
 ## Acknowledgements:
-Jason Eshraghian’s [guides](https://github.com/open-neuromorphic/hands-on-session-snntorch-230302/tree/main)
-Training SNN with DL tech [paper](https://arxiv.org/abs/2109.12894)
+- Jason Eshraghian’s [guides](https://github.com/open-neuromorphic/hands-on-session-snntorch-230302/tree/main)
+- Training SNN with DL tech [paper](https://arxiv.org/abs/2109.12894)
